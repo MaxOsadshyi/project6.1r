@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\MAXIMUS\source\repos\Project6.1r\Project6.1r\FileName.cpp(53,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project6.1r.vcxproj -> C:\Users\MAXIMUS\source\repos\Project6.1r\x64\Debug\Project6.1r.exe

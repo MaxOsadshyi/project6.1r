@@ -1,0 +1,10 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: UnitTest1, Конфигурация: Debug x64 ------
+1>pch.cpp
+1>UnitTest1.cpp
+1>C:\Users\MAXIMUS\source\repos\Project6.1r\Project6.1r\FileName.cpp(53,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>   Создается библиотека C:\Users\MAXIMUS\source\repos\Project6.1r\x64\Debug\UnitTest1.lib и объект C:\Users\MAXIMUS\source\repos\Project6.1r\x64\Debug\UnitTest1.exp
+1>UnitTest1.vcxproj -> C:\Users\MAXIMUS\source\repos\Project6.1r\x64\Debug\UnitTest1.dll
+1>Сборка проекта "UnitTest1.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 1, пропущено — 0 ==========
+========== Сборка запущено в 14:02, заняло 01,621 с ==========
